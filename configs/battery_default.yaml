@@ -1,0 +1,13 @@
+# 基础电池参数示例 (可按实验数据修改)
+capacity: 50           # Ah
+internal_resistance: 0.1   # Ohm
+ambient_temperature: 25    # °C
+heat_capacity: 2000        # J/kg·°C
+surface_area: 0.01         # m²
+thermal_conductivity: 0.5  # W/m·°C
+convective_heat_transfer_coefficient: 10  # W/m²·°C
+radiative_emissivity: 0.9
+stefan_boltzmann_constant: 5.67e-8
+num_zones: 3 
+contact_resistance: 0.002       # K/W 接触热阻
+arrhenius_coeff: 0.01          # 内阻温度指数系数 

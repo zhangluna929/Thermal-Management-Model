@@ -1,0 +1,10 @@
+numpy>=1.20
+PyYAML>=6.0
+plotly>=5.18
+pybamm>=24.0
+dask[complete]>=2023.4
+jaxlib>=0.4.25
+jax>=0.4.25
+cvxpy>=1.4
+deap>=1.4
+pytest-cov>=4.1 
